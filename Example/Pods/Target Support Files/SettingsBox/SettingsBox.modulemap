@@ -1,0 +1,6 @@
+framework module SettingsBox {
+  umbrella header "SettingsBox-umbrella.h"
+
+  export *
+  module * { export * }
+}

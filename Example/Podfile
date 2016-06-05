@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SettingsBox_Example' do
+  pod 'SettingsBox', :path => '../'
+
+  target 'SettingsBox_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end

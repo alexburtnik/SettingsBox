@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (2.4.0)
+  - SettingsBox (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - SettingsBox (from `../`)
+
+EXTERNAL SOURCES:
+  SettingsBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  SettingsBox: b78fb272e475a8e7227094cf6946d2b7afde178b
+
+PODFILE CHECKSUM: 7cc7e1778c3aba075a2d13423dfd2460fef1b0a0
+
+COCOAPODS: 1.0.0
